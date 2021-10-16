@@ -1,0 +1,12 @@
+.App {
+  background-color: #000;
+  height: 100vh;
+  color: white;
+  display: grid;
+  place-content: center;
+}
+main {
+  border: 1px solid red;
+  aspect-ratio: 9/16;
+  width: 375px;
+}
